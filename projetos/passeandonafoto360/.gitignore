@@ -1,0 +1,6 @@
+.vercel/
+.claude/
+imagem base/
+.env
+.env.*
+!.env.example
