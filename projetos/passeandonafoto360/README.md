@@ -60,7 +60,7 @@ reduzido desativa os efeitos.
 
 ## Conteúdo da marca
 
-- Telefone: **(41) 98405-7638**.
+- Telefone: **(41) 98405-7628**.
 - WhatsApp: **(41) 98405-7628**.
 - E-mail: **passeandonafoto@gmail.com**.
 - Instagram: **[@dronemaker360](https://www.instagram.com/dronemaker360/)**.
@@ -72,8 +72,7 @@ reduzido desativa os efeitos.
 - Dados do controlador, coleta e uso de dados, cookies, retenção e canal de
   privacidade na Política de Privacidade.
 - Condições comerciais, prazos, cancelamento e horários de suporte.
-- Se telefone e WhatsApp são números distintos: o telefone informado é 7638,
-  enquanto o link de WhatsApp usa 7628.
+- Telefone e WhatsApp mantidos no mesmo número para atendimento direto: 7628.
 
 As páginas legais exibem avisos de conteúdo pendente e precisam ser revisadas
 antes de serem apresentadas como documentos finais.
