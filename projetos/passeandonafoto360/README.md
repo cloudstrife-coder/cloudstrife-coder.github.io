@@ -22,7 +22,11 @@ narrativa visual, adapta-se a telas pequenas e mantém a navegação acessível.
 - Galeria de trabalhos com faixa horizontal guiada pelo scroll em telas maiores
   e rolagem nativa em telas menores ou com movimento reduzido.
 - Depoimentos, contato, links para Instagram e acesso ao WhatsApp.
-- Páginas de política de privacidade e condições e suporte.
+- Minutas de Política de Privacidade, Termos de Uso, Política de Cookies e Política
+  de Troca, Cancelamento e Reembolso, com links no rodapé.
+- Atendimento e negociação pelo WhatsApp, conforme informado pelo responsável.
+  Dados da empresa e procedimentos comerciais ainda precisam de confirmação;
+  os documentos legais permanecem pendentes de validação e revisão jurídica.
 - Animações de entrada, contadores, navegação responsiva e respeito à preferência
   por movimento reduzido.
 - SEO básico, dados estruturados, sitemap e regras para robôs.
